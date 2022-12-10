@@ -1,0 +1,6 @@
+numpy
+streamlit
+torch
+torchvision
+fastai
+jupyter
