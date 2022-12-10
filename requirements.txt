@@ -2,5 +2,6 @@ numpy
 streamlit
 torch
 torchvision
+efficientnet_pytorch
 fastai
 jupyter
